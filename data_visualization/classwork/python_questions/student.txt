@@ -1,0 +1,7 @@
+id,name,class,marks1,marks2,marks3
+1,Rahul,10A,85,90,88
+2,Anita,10A,78,82,80
+3,Ravi,10B,50,60,70
+4,Sneha,10A,95,92,96
+5,Amit,10B,40,,45
+6,Neha,10B,88,91,90
